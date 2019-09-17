@@ -1,0 +1,1 @@
+print('Priv, kak dela')
